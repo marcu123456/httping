@@ -7,7 +7,7 @@ def test(url):
     print(
         """
         Flood mode doesn't display send info
-        100 threads wills
+        100 threads will repeatedly send a 10,000 character string of random characters to the target URL
         """
     )
     r = requests.post(url=url, allow_redirects=False, data=main.dataGen(10))
