@@ -20,7 +20,7 @@ print(
 
     a) post
     b) get
-    c) redirect
+    c) redirect test
     d) flood
 
     """
