@@ -1,10 +1,10 @@
 """
 """
-# Imports
+# Lib Imports
 import random
 import string
 
-# Other script imports
+# Script imports
 import post
 import get
 import redirect
